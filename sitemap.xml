@@ -612,7 +612,7 @@
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
 </url>
-    <url>
+<url>
 <loc>https://www.allwayshealthy.nl/belangrijkste-advies</loc>
 <lastmod>2022-08-01T07:50:57+00:00</lastmod>
 </url>
@@ -1046,6 +1046,10 @@
 </url>
 <url>
 <loc>https://www.allwayshealthy.nl/store</loc>
+<changefreq>daily</changefreq>
+</url>
+<url>
+<loc>https://www.allwayshealthy.nl/faq</loc>
 <changefreq>daily</changefreq>
 </url>
 </urlset>
